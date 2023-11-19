@@ -1,0 +1,15 @@
+C:\Users\marco\Desktop\leanons-systems\4-Problem\obj\Debug\net6.0\4-Problem.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\leanons-systems\4-Problem\obj\Debug\net6.0\4-Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\leanons-systems\4-Problem\obj\Debug\net6.0\4-Problem.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\leanons-systems\4-Problem\obj\Debug\net6.0\4-Problem.AssemblyInfo.cs
+C:\Users\marco\Desktop\leanons-systems\4-Problem\obj\Debug\net6.0\4-Problem.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\leanons-systems\4-Problem\bin\Debug\net6.0\4-Problem.exe
+C:\Users\marco\Desktop\leanons-systems\4-Problem\bin\Debug\net6.0\4-Problem.deps.json
+C:\Users\marco\Desktop\leanons-systems\4-Problem\bin\Debug\net6.0\4-Problem.runtimeconfig.json
+C:\Users\marco\Desktop\leanons-systems\4-Problem\bin\Debug\net6.0\4-Problem.dll
+C:\Users\marco\Desktop\leanons-systems\4-Problem\bin\Debug\net6.0\4-Problem.pdb
+C:\Users\marco\Desktop\leanons-systems\4-Problem\obj\Debug\net6.0\4-Problem.dll
+C:\Users\marco\Desktop\leanons-systems\4-Problem\obj\Debug\net6.0\refint\4-Problem.dll
+C:\Users\marco\Desktop\leanons-systems\4-Problem\obj\Debug\net6.0\4-Problem.pdb
+C:\Users\marco\Desktop\leanons-systems\4-Problem\obj\Debug\net6.0\4-Problem.genruntimeconfig.cache
+C:\Users\marco\Desktop\leanons-systems\4-Problem\obj\Debug\net6.0\ref\4-Problem.dll

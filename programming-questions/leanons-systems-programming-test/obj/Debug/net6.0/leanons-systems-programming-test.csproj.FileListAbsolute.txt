@@ -1,0 +1,15 @@
+C:\Users\marco\Desktop\leanons-systems\leanons-systems-programming-test\obj\Debug\net6.0\leanons-systems-programming-test.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\leanons-systems\leanons-systems-programming-test\obj\Debug\net6.0\leanons-systems-programming-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\leanons-systems\leanons-systems-programming-test\obj\Debug\net6.0\leanons-systems-programming-test.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\leanons-systems\leanons-systems-programming-test\obj\Debug\net6.0\leanons-systems-programming-test.AssemblyInfo.cs
+C:\Users\marco\Desktop\leanons-systems\leanons-systems-programming-test\obj\Debug\net6.0\leanons-systems-programming-test.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\leanons-systems\leanons-systems-programming-test\bin\Debug\net6.0\leanons-systems-programming-test.exe
+C:\Users\marco\Desktop\leanons-systems\leanons-systems-programming-test\bin\Debug\net6.0\leanons-systems-programming-test.deps.json
+C:\Users\marco\Desktop\leanons-systems\leanons-systems-programming-test\bin\Debug\net6.0\leanons-systems-programming-test.runtimeconfig.json
+C:\Users\marco\Desktop\leanons-systems\leanons-systems-programming-test\bin\Debug\net6.0\leanons-systems-programming-test.dll
+C:\Users\marco\Desktop\leanons-systems\leanons-systems-programming-test\bin\Debug\net6.0\leanons-systems-programming-test.pdb
+C:\Users\marco\Desktop\leanons-systems\leanons-systems-programming-test\obj\Debug\net6.0\leanons-systems-programming-test.dll
+C:\Users\marco\Desktop\leanons-systems\leanons-systems-programming-test\obj\Debug\net6.0\refint\leanons-systems-programming-test.dll
+C:\Users\marco\Desktop\leanons-systems\leanons-systems-programming-test\obj\Debug\net6.0\leanons-systems-programming-test.pdb
+C:\Users\marco\Desktop\leanons-systems\leanons-systems-programming-test\obj\Debug\net6.0\leanons-systems-programming-test.genruntimeconfig.cache
+C:\Users\marco\Desktop\leanons-systems\leanons-systems-programming-test\obj\Debug\net6.0\ref\leanons-systems-programming-test.dll

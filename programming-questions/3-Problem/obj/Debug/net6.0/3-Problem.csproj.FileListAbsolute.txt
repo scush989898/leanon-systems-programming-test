@@ -1,0 +1,5 @@
+C:\Users\marco\Desktop\leanons-systems\3-Problem\obj\Debug\net6.0\3-Problem.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\leanons-systems\3-Problem\obj\Debug\net6.0\3-Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\leanons-systems\3-Problem\obj\Debug\net6.0\3-Problem.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\leanons-systems\3-Problem\obj\Debug\net6.0\3-Problem.AssemblyInfo.cs
+C:\Users\marco\Desktop\leanons-systems\3-Problem\obj\Debug\net6.0\3-Problem.csproj.CoreCompileInputs.cache
