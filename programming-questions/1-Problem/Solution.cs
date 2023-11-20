@@ -21,8 +21,10 @@ namespace _1_Problem
         static bool isPalindrome(string word)
         {
             int length = word.Length;
+            int ceilingMiddle = (int)(Math.Ceiling(length / 2.0));
 
-            for (int i = 0; i < length; i++)
+
+            for (int i = 0; i < ceilingMiddle; i++)
             {
                 if (word[i] != word[(length - 1) - i])
                 {

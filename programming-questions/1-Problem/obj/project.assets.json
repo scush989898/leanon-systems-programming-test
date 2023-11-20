@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marco\\Desktop\\leanons-systems\\1-Problem\\1-Problem.csproj",
+      "projectUniqueName": "C:\\Users\\marco\\Desktop\\tt\\leanon-systems-programming-test\\programming-questions\\1-Problem\\1-Problem.csproj",
       "projectName": "1-Problem",
-      "projectPath": "C:\\Users\\marco\\Desktop\\leanons-systems\\1-Problem\\1-Problem.csproj",
+      "projectPath": "C:\\Users\\marco\\Desktop\\tt\\leanon-systems-programming-test\\programming-questions\\1-Problem\\1-Problem.csproj",
       "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marco\\Desktop\\leanons-systems\\1-Problem\\obj\\",
+      "outputPath": "C:\\Users\\marco\\Desktop\\tt\\leanon-systems-programming-test\\programming-questions\\1-Problem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marco\\AppData\\Roaming\\NuGet\\NuGet.Config",

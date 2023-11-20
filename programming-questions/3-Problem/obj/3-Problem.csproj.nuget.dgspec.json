@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marco\\Desktop\\leanons-systems\\3-Problem\\3-Problem.csproj": {}
+    "C:\\Users\\marco\\Desktop\\tt\\leanon-systems-programming-test\\programming-questions\\3-Problem\\3-Problem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marco\\Desktop\\leanons-systems\\3-Problem\\3-Problem.csproj": {
+    "C:\\Users\\marco\\Desktop\\tt\\leanon-systems-programming-test\\programming-questions\\3-Problem\\3-Problem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marco\\Desktop\\leanons-systems\\3-Problem\\3-Problem.csproj",
+        "projectUniqueName": "C:\\Users\\marco\\Desktop\\tt\\leanon-systems-programming-test\\programming-questions\\3-Problem\\3-Problem.csproj",
         "projectName": "3-Problem",
-        "projectPath": "C:\\Users\\marco\\Desktop\\leanons-systems\\3-Problem\\3-Problem.csproj",
+        "projectPath": "C:\\Users\\marco\\Desktop\\tt\\leanon-systems-programming-test\\programming-questions\\3-Problem\\3-Problem.csproj",
         "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marco\\Desktop\\leanons-systems\\3-Problem\\obj\\",
+        "outputPath": "C:\\Users\\marco\\Desktop\\tt\\leanon-systems-programming-test\\programming-questions\\3-Problem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marco\\AppData\\Roaming\\NuGet\\NuGet.Config",
